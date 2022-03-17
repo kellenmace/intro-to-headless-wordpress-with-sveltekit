@@ -1,6 +1,6 @@
 # Intro to Headless WordPress with SvelteKit
 
-This is the SvelteKit app from the "Headless WordPress with SvelteKit" talk given by Kellen Mace at the Svelte Summit conference in fall 2021.
+This is the SvelteKit app from the "Headless WordPress with SvelteKit" talk given by Kellen Mace at the Svelte Summit conference in fall, 2021: https://www.youtube.com/watch?v=l0q3alPtoow
 
 ## Getting Started
 
